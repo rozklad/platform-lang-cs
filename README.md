@@ -1,6 +1,6 @@
 # platform-lang-cs
 
-Czech translation for the [http://cartalyst.com](Cartalyst) Platform packages.
+Czech translation for the [Cartalyst](http://cartalyst.com) Platform packages.
 
 ## Included
 
