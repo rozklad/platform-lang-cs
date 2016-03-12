@@ -28,3 +28,9 @@ Czech translation for the [http://cartalyst.com](Cartalyst) Platform packages.
 ### Download
 
 Download this package and copy it's contents to /extensions/platform/
+
+## Usage
+
+Set **app.locale** in config/app.php
+
+	locale => 'cs'
