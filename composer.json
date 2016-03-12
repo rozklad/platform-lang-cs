@@ -33,7 +33,20 @@
     "require": {
         "php": ">=5.4.0",
         "cartalyst/composer-installers": ">=1.2.0",
-        "sanatorium/platform-access-lang-cs": "~1.0"
+        "sanatorium/platform-access-lang-cs": "~1.0",
+        "sanatorium/platform-attributes-lang-cs": "~1.0",
+        "sanatorium/platform-content-lang-cs": "~1.0",
+        "sanatorium/platform-dashboard-lang-cs": "~1.0",
+        "sanatorium/platform-media-lang-cs": "~1.0",
+        "sanatorium/platform-menus-lang-cs": "~1.0",
+        "sanatorium/platform-operations-lang-cs": "~1.0",
+        "sanatorium/platform-pages-lang-cs": "~1.0",
+        "sanatorium/platform-permissions-lang-cs": "~1.0",
+        "sanatorium/platform-roles-lang-cs": "~1.0",
+        "sanatorium/platform-settings-lang-cs": "~1.0",
+        "sanatorium/platform-tags-lang-cs": "~1.0",
+        "sanatorium/platform-themes-lang-cs": "~1.0",
+        "sanatorium/platform-users-lang-cs": "~1.0"
     },
     "minimum-stability": "stable"
 }
