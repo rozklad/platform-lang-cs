@@ -46,8 +46,7 @@
         "sanatorium/platform-settings-lang-cs": "~1.0",
         "sanatorium/platform-tags-lang-cs": "~1.0",
         "sanatorium/platform-themes-lang-cs": "~1.0",
-        "sanatorium/platform-users-lang-cs": "~1.0",
-        "sanatorium/platform-app-lang-cs": "~1.0"
+        "sanatorium/platform-users-lang-cs": "~1.0"
     },
     "minimum-stability": "stable"
 }
